@@ -23,7 +23,7 @@ Each project will include:
 
 I believe that **consistency beats intensity**.  
 This challenge is my way of:
-- Staying committed to my growth as a developer  
+- Staying committed to my growth as a developer.  
 - Building my personal brand in the **technical side of finance**  
 - Contributing back to the dev community through transparent learning
 
