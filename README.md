@@ -1,6 +1,6 @@
 # 🦀 100 Days of Rust
 
-Welcome to my **#100DaysOfRust** challenge — where I’ll be building **one Rust project every day** for the next 100 days! 🎯
+Welcome to my **#100DaysOfRust** challenge — where I’ll be building **one Rust project every day** for the next 100 days! 
 
 The goal?  
 To sharpen my systems programming skills, stay consistent, and build a strong technical foundation to solve real-world problems — especially in the **FinTech** space where performance and reliability matter most.
@@ -12,10 +12,10 @@ To sharpen my systems programming skills, stay consistent, and build a strong te
 Every day, I’ll push a mini project built in Rust — from simple CLI tools to more complex experiments with data, networking, and maybe even blockchain mechanics.
 
 Each project will include:
-- ✅ Well-structured code
-- 📝 A detailed write-up (linked to [my Medium](https://medium.com/@shivamojha2419))
-- 📚 Learning notes and takeaways
-- 📦 Use of modern Rust tooling and crates
+- Well-structured code
+- A detailed write-up (linked to [my Medium](https://medium.com/@shivamojha2419))
+- Learning notes and takeaways
+- Use of modern Rust tooling and crates
 
 ---
 
@@ -64,14 +64,14 @@ Feel free to star ⭐ the repo if you find it useful or inspiring!
 ## 🧠 Topics I Plan to Explore
 
 Over the next 100 days, expect to see projects covering:
-- 📊 Data structures & algorithms in Rust
-- 💾 File I/O & serialization
-- 🧵 Async & multithreading
-- 🧮 Cryptography & zero-knowledge proofs
-- 💸 FinTech utilities (price trackers, portfolio tools, simulations)
-- 🌐 Web servers & APIs in Rust
-- 🧱 WASM + Rust
-- 🧪 Testing, benchmarking, and release-ready tooling
+- Data structures & algorithms in Rust
+- File I/O & serialization
+- Async & multithreading
+- Cryptography & zero-knowledge proofs
+- FinTech utilities (price trackers, portfolio tools, simulations)
+- Web servers & APIs in Rust
+- WASM + Rust
+- Testing, benchmarking, and release-ready tooling
 
 ---
 
