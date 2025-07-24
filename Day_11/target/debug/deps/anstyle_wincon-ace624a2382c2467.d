@@ -1,0 +1,10 @@
+C:\Users\Shivam\Downloads\Development\100 Days Of Rust\Day_11\target\debug\deps\anstyle_wincon-ace624a2382c2467.d: C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\lib.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\ansi.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\stream.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\windows.rs
+
+C:\Users\Shivam\Downloads\Development\100 Days Of Rust\Day_11\target\debug\deps\libanstyle_wincon-ace624a2382c2467.rlib: C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\lib.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\ansi.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\stream.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\windows.rs
+
+C:\Users\Shivam\Downloads\Development\100 Days Of Rust\Day_11\target\debug\deps\libanstyle_wincon-ace624a2382c2467.rmeta: C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\lib.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\ansi.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\stream.rs C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\windows.rs
+
+C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\lib.rs:
+C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\ansi.rs:
+C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\stream.rs:
+C:\Users\Shivam\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.9\src\windows.rs:
